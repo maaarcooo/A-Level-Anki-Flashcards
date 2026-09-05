@@ -1,0 +1,104 @@
+What is distance? | The total length between two points (scalar quantity)
+What is speed? | The total distance travelled per unit of time (scalar quantity)
+What is displacement? | The distance of an object from a fixed point in a specified direction (vector quantity)
+The distance of an object from a fixed point in a specified direction — what quantity is this? | Displacement
+What is velocity? | The rate of change of displacement of an object
+The rate of change of displacement of an object — what quantity is this? | Velocity
+What is acceleration? | The rate of change of velocity of an object
+The rate of change of velocity of an object — what quantity is this? | Acceleration
+How do scalar and vector quantities differ? | Scalar quantities have magnitude only; vector quantities have both magnitude and direction
+What is the equation linking velocity, displacement, and time? | $v = \frac{\Delta s}{\Delta t}$
+What is the equation linking acceleration, velocity, and time? | $a = \frac{\Delta v}{\Delta t}$
+What is the SI unit of velocity? | $\text{m s}^{-1}$
+What is the SI unit of acceleration? | $\text{m s}^{-2}$
+In physics, what does the symbol $\Delta$ mean? | Change in (a quantity)
+What is instantaneous velocity? | The velocity of an object at a specific point in time
+How is instantaneous velocity found on a displacement-time graph? | Draw a tangent at the required time and calculate its gradient
+What is average speed? | Total distance divided by total time
+How is average velocity found on a displacement-time graph? | Divide the total displacement (y-axis) by the total time (x-axis)
+What does the gradient of a displacement-time graph represent? | Velocity
+What does the y-intercept of a displacement-time graph represent? | Initial displacement
+On a displacement-time graph, what does a straight diagonal line represent? | Constant velocity
+On a displacement-time graph, what does a curved line represent? | Acceleration (changing velocity)
+On a displacement-time graph, what does a horizontal line represent? | The object is at rest
+What does the area under a displacement-time graph represent? | Nothing — it has no physical meaning
+On a displacement-time graph, what does the sign of the gradient indicate? | The direction of motion: positive gradient means motion in the positive direction, negative gradient means motion in the negative direction
+How does a displacement-time graph differ from a distance-time graph? | A displacement-time graph can have positive or negative values on the y-axis; a distance-time graph has only positive values
+What does the gradient of a velocity-time graph represent? | Acceleration
+What does the y-intercept of a velocity-time graph represent? | Initial velocity
+On a velocity-time graph, what does a straight line represent? | Uniform (constant) acceleration
+On a velocity-time graph, what does a curved line represent? | Non-uniform acceleration
+On a velocity-time graph, what does a horizontal line represent? | Constant velocity (zero acceleration)
+What does the area under a velocity-time graph represent? | Displacement or distance travelled
+How does a velocity-time graph differ from a speed-time graph? | A velocity-time graph can show positive or negative values on the y-axis; a speed-time graph has only positive values
+What does the gradient of an acceleration-time graph represent? | It has no physical meaning
+What does the y-intercept of an acceleration-time graph represent? | Initial acceleration
+On an acceleration-time graph, what does a horizontal line represent? | Constant acceleration
+What does the area under an acceleration-time graph represent? | Change in velocity
+For a bouncing ball in a uniform gravitational field (no air resistance), in what direction does the acceleration act throughout the motion? | Always downwards, constant at $g$, regardless of whether the ball is rising or falling
+What happens to a bouncing ball's velocity at the highest point of its trajectory? | The velocity is momentarily zero, then changes from positive (upward) to negative (downward) as the ball changes direction
+At the point of a bounce, what happens to a ball's velocity and speed? | Velocity changes instantaneously from negative to positive (direction reverses), but speed (magnitude) remains the same
+What does the acronym SUVAT stand for? | $s$ (displacement), $u$ (initial velocity), $v$ (final velocity), $a$ (acceleration), $t$ (time)
+When can the SUVAT equations be used? | For motion with constant acceleration in a straight line
+State the SUVAT equation that does not contain $s$ | $v = u + at$
+State the SUVAT equation that does not contain $v$ | $s = ut + \frac{1}{2}at^2$
+State the SUVAT equation that does not contain $a$ | $s = \frac{(v + u)}{2}t$
+State the SUVAT equation that does not contain $t$ | $v^2 = u^2 + 2as$
+In SUVAT problems, what does "starts from rest" imply? | $u = 0$ (initial velocity is zero)
+In SUVAT problems, if an object is only falling under gravity, what value is used for $a$? | $a = g = 9.81 \text{ m s}^{-2}$
+In the SUVAT equations, which is the only variable that is not a vector? | Time, $t$ — all other variables ($s$, $u$, $v$, $a$) are vectors and can be positive or negative
+Why must the sign convention be consistent for all vector quantities in a SUVAT problem? | Because inconsistent signs give incorrect answers — if upward is positive then $s$ upward is positive and $a$ downward must be negative, or vice versa
+What is a projectile? | A particle moving freely (non-powered) under gravity in a two-dimensional plane
+In projectile motion, how are the horizontal and vertical components related? | They are independent of each other and must be evaluated separately using SUVAT equations
+What is the horizontal acceleration of a projectile (ignoring air resistance)? | Zero — horizontal velocity remains constant throughout the flight
+What is the vertical acceleration of a projectile (ignoring air resistance)? | $g = 9.81 \text{ m s}^{-2}$ directed downwards
+For a projectile launched at angle $\theta$ with speed $u$, what is the initial vertical component of velocity? | $u_y = u\sin\theta$
+For a projectile launched at angle $\theta$ with speed $u$, what is the initial horizontal component of velocity? | $u_x = u\cos\theta$
+At what point in its trajectory does a projectile reach its maximum height? | When the vertical component of velocity equals zero, which occurs at half the total time of flight
+What is the equation for the total time of flight of a projectile launched at angle $\theta$ with speed $u$? | $T = \frac{2u\sin\theta}{g}$
+What is the equation for the maximum height of a projectile launched at angle $\theta$ with speed $u$? | $H = \frac{(u\sin\theta)^2}{2g}$
+What is the equation for the range of a projectile launched at angle $\theta$ with speed $u$? | $R = \frac{u^2\sin 2\theta}{g}$
+What is time of flight for a projectile? | The total time the projectile spends in the air
+What is the range of a projectile? | The total horizontal distance travelled by the projectile
+What is the maximum height attained by a projectile? | The highest vertical point reached, where the vertical velocity component is momentarily zero
+How does air resistance affect a projectile's trajectory? | It reduces both the horizontal range and the maximum height, and causes a steeper descent path
+What two factors most affect the motion of an object through a fluid? | Mass (determines weight) and surface area (determines drag force)
+What is a fluid? | A term used to describe a liquid or a gas
+A term used to describe a liquid or a gas — what is this? | A fluid
+What are drag forces? | Forces that oppose the motion of an object moving through a fluid (gas or liquid)
+In what direction do drag forces act? | In the opposite direction to the motion of the object
+How does drag force change with the speed of an object? | Drag force increases as the speed increases
+What energy conversions occur due to drag forces? | Kinetic energy is converted into heat and sound
+What is lift? | An upward force on an object moving through a fluid, acting perpendicular to the fluid flow
+Explain how lift is generated on an aeroplane wing | The wing pushes air downward as it moves; by Newton's third law, the air exerts an equal and opposite upward force (lift) on the wing
+Why do aeroplanes fly at high altitudes? | The air is less dense at higher altitudes, so there is less air resistance
+In an exam, what does it mean if air resistance is described as "negligible"? | There are no drag forces acting on the body — air resistance is too small to affect the motion
+What is terminal velocity? | The maximum constant velocity of a falling object, reached when the drag force equals the weight and the resultant force and acceleration are zero
+The maximum velocity reached by a falling object when drag equals weight — what is this called? | Terminal velocity
+Explain why a falling object eventually reaches terminal velocity | As speed increases, drag force increases, reducing the resultant force and acceleration. When drag equals weight, the resultant force is zero and velocity becomes constant
+On a velocity-time graph, how is the approach to terminal velocity shown? | The curve starts steep (large gradient), the gradient decreases as drag increases, and the line levels off to horizontal at terminal velocity
+Why does a heavier skydiver have a higher terminal velocity than a lighter one? | Greater weight means drag must reach a larger value to equal the weight, which requires a higher speed
+What is the aim of the required practical on determination of $g$? | To calculate the acceleration due to gravity by measuring the time for a ball-bearing to fall a known distance, then using an equation of motion
+In the determination of $g$ experiment, what is the independent variable? | Height, $h$ (the distance between the two light gates)
+In the determination of $g$ experiment, what is the dependent variable? | Time, $t$ (the time for the ball-bearing to fall between the two light gates)
+Name three control variables in the determination of $g$ experiment | Same steel ball-bearing, same electromagnet, and same distance between the ball-bearing and the top of the glass tube
+What is the purpose of the electromagnet in the determination of $g$ experiment? | To hold and release the ball-bearing consistently from rest at a fixed position above the glass tube
+What is the purpose of the light gates in the determination of $g$ experiment? | To accurately measure the fall time — the first gate starts the timer and the second stops it
+What is the purpose of the glass tube in the determination of $g$ experiment? | To guide the ball-bearing vertically downwards in a straight line
+What is the purpose of the cushion in the determination of $g$ experiment? | To catch the ball-bearing and prevent it from being damaged or damaging the surface
+What are the resolutions of the measuring instruments in the determination of $g$ experiment? | Metre ruler: 1 mm; timer (via light gates): 0.01 s
+What graph is plotted to determine $g$ from the free-fall experiment? | $\frac{2h}{t}$ on the y-axis against $t$ on the x-axis
+In the determination of $g$ graph, what does the gradient represent? | The acceleration due to gravity, $g$
+In the determination of $g$ graph, what does the y-intercept represent? | $2u$, where $u$ is the initial velocity of the ball-bearing
+Which SUVAT equation is rearranged for the determination of $g$ graph, and what form does it take? | $s = ut + \frac{1}{2}at^2$ rearranges to $\frac{2h}{t} = gt + 2u$, which has the form $y = mx + c$
+Name one systematic error in the determination of $g$ experiment | Residual magnetism after the electromagnet is switched off delays the ball's release, making the recorded time longer than it should be
+Name two random errors in the determination of $g$ experiment | Parallax error when reading height $h$ on the metre ruler, and the ball not falling accurately through the centre of each light gate
+How are random errors reduced in the determination of $g$ experiment? | Repeat the experiment at least 3-5 times for each value of $h$ and calculate an average time
+How is the uncertainty in $g$ determined from the graph? | The fractional uncertainty equals the difference between the gradients of the best fit and worst fit lines, divided by the gradient of the best fit line
+What is the line of worst fit? | The steepest or shallowest straight line that still passes through all the error bars on the graph
+How is the uncertainty in $h$ determined in the determination of $g$ experiment? | Half the resolution of the metre ruler (typically 0.5 mm)
+How is the uncertainty in $t$ determined for each height in the determination of $g$ experiment? | Half the range of the repeated time measurements
+How is the percentage uncertainty in $\frac{2h}{t}$ calculated? | Add the percentage uncertainties of $h$ and $t$ together
+State two safety precautions in the determination of $g$ experiment | Keep water away from the electromagnet to avoid electrocution risk, and place a cushion below the glass tube to catch the ball-bearing
+Why should the clamp stand be secured with a G clamp in the determination of $g$ experiment? | To keep the apparatus rigid so the glass tube stays vertical and the ball-bearing falls straight
+Why should the current to the electromagnet only be switched on once all apparatus is set up? | To reduce the risk of electrocution

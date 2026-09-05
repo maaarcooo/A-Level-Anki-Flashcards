@@ -1,0 +1,51 @@
+What are the four fundamental interactions? | Gravity, electromagnetism, strong nuclear (strong interaction), and weak nuclear
+Which is the strongest fundamental interaction? | The strong nuclear interaction
+Which is the weakest fundamental interaction? | Gravity
+What is the range of the electromagnetic and gravitational interactions? | Infinite
+What is the range of the weak force? | Up to $10^{-18}$ m
+What is the range of the strong force? | Approximately $10^{-15}$ m
+What property must particles have to be affected by the gravitational interaction? | Mass
+What property must particles have to be affected by the electromagnetic interaction? | Charge
+Which fundamental interaction affects all particles? | The weak interaction
+Which particles are affected by the strong interaction? | Hadrons only (particles made of quarks)
+Why does gravity not play a part in particle interactions? | It is so weak that it only has a noticeable effect on large masses, not individual particles
+What are exchange particles? | Virtual particles that exist briefly to carry (mediate) the fundamental force between interacting particles
+Virtual particles that exist briefly to mediate the fundamental force between interacting particles — what term is this? | Exchange particles (also called gauge bosons)
+What is the exchange particle of the strong interaction between nucleons? | Pion ($\pi^+$, $\pi^-$, $\pi^0$)
+What is the exchange particle of the strong interaction between quarks? | Gluon
+What are the exchange particles of the weak interaction? | $W^+$ boson, $W^-$ boson, or $Z^0$ boson
+What is the exchange particle of the electromagnetic interaction? | Virtual photon ($\gamma$)
+What is the theorised exchange particle of the gravitational force? | The graviton (not yet discovered)
+State three properties of the photon | No mass, no charge, and it is its own antiparticle
+Why can leptons not interact via the strong force? | Leptons are not made of quarks, and the strong force only acts on particles made of quarks (hadrons)
+Explain why the electromagnetic force is responsible for binding electrons to atoms | The attractive force between the negatively charged electrons and the positively charged nucleus holds the electrons in place
+What is the weak interaction responsible for? | The radioactive decay of atoms
+Write the equation for $\beta^-$ decay | $n \rightarrow p + e^- + \bar{\nu}_e$
+What is the exchange particle in $\beta^-$ decay? | $W^-$ boson
+Write the equation for $\beta^+$ decay | $p \rightarrow n + e^+ + \nu_e$
+What is the exchange particle in $\beta^+$ decay? | $W^+$ boson
+How does the sign of the W boson relate to the type of beta decay? | The sign matches: $W^-$ is exchanged in $\beta^-$ decay, $W^+$ is exchanged in $\beta^+$ decay
+What is electron capture? | A process where an atomic electron is absorbed by a proton in the nucleus, producing a neutron and an electron neutrino
+A process where an atomic electron is absorbed by a proton in the nucleus, producing a neutron and an electron neutrino — what term is this? | Electron capture
+Write the equation for electron capture | $p + e^- \rightarrow n + \nu_e$
+What is the exchange particle in electron capture? | $W^+$ boson (the proton acts on the electron)
+What is the exchange particle in an electron-proton collision? | $W^-$ boson (the electron acts on the proton)
+How does electron capture differ from an electron-proton collision? | Same equation ($p + e^- \rightarrow n + \nu_e$), but in electron capture the proton acts on the electron (mediated by $W^+$), while in a collision the electron acts on the proton (mediated by $W^-$)
+Which fundamental interaction facilitates the collision in electron-proton interactions? | The weak interaction (although the particles are attracted via the electromagnetic interaction)
+What do the y-axis and x-axis represent on a Feynman diagram? | y-axis represents time, x-axis represents space
+What is a vertex on a Feynman diagram? | The point where particles and exchange particles meet, representing a point of interaction
+How are particles represented on a Feynman diagram? | Straight lines with arrows pointing forward in time
+How are exchange particles represented on a Feynman diagram? | Wavy lines with no arrows (charged W bosons may have a directional arrow above the line)
+Where do incoming and outgoing particles appear on a Feynman diagram? | Incoming particles enter at the bottom, outgoing particles leave at the top
+In what default direction is the exchange particle transferred on a Feynman diagram? | Left to right, unless an arrow above the wavy line indicates otherwise
+On a Feynman diagram, where are hadrons/quarks and leptons placed? | Hadrons/quarks on the left, leptons on the right; they must never meet at a vertex
+What quantities must be conserved at each vertex of a Feynman diagram? | Charge, baryon number, and lepton number
+State the rule about line crossing on Feynman diagrams | Lines must not cross over
+What quark change occurs in $\beta^-$ decay? | A down quark changes to an up quark, converting a neutron (udd) to a proton (uud)
+What quark change occurs in $\beta^+$ decay? | An up quark changes to a down quark, converting a proton (uud) to a neutron (udd)
+What role does the $W^-$ boson play in $\beta^-$ decay at the quark level? | It carries away the negative charge of the down quark, providing the charge for the electron and anti-neutrino
+What role does the $W^+$ boson play in $\beta^+$ decay at the quark level? | It carries away the positive charge of the up quark, providing the charge for the positron
+Which quantities are always conserved in particle interactions? | Charge (Q), baryon number (B), lepton number (L), energy (mass-energy), and momentum
+Which quantity does not need to be conserved in weak interactions? | Strangeness (S); it can change by 0, +1, or $-1$
+What values can quantum numbers such as Q, B, L, and S take? | Discrete values only (e.g. 0, $+1$, $-1$, $+\frac{1}{2}$)
+How do you determine whether a particle interaction is permitted? | Check that each quantum number (Q, B, L, S) is conserved on both sides of the equation; if any is not conserved (except S in weak interactions), the interaction cannot occur

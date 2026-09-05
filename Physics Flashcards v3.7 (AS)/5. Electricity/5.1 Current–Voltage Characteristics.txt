@@ -1,0 +1,43 @@
+What is electric current? | The rate of flow of electric charge
+The rate of flow of electric charge — what quantity is this? | Electric current
+What is the equation for electric current? | $I = \frac{\Delta Q}{\Delta t}$
+What is the SI unit of electric current? | Ampere (A)
+What is 1 ampere equivalent to? | A charge of 1 coulomb flowing per second ($1\;\text{A} = 1\;\text{C s}^{-1}$)
+What two things does a simple electrical circuit require? | A conductor through which current can flow, and a source of potential difference
+When does current flow in a circuit? | When a conductor connects the two oppositely charged terminals of an energy source
+In an electric circuit, the current is a flow of [...] | Electrons
+What is conventional current? | The flow of positive charge, from the positive terminal to the negative terminal of a cell
+The flow of positive charge from positive to negative terminal — what term is this? | Conventional current
+How does electron flow differ from conventional current? | They are in opposite directions: electrons flow from negative to positive terminal, while conventional current flows from positive to negative
+How is an ammeter connected in a circuit? | In series with the component being measured
+What is potential difference? | The electrical work done per unit charge flowing between two points
+The electrical work done per unit charge flowing between two points — what quantity is this? | Potential difference
+What is the equation for potential difference? | $V = \frac{W}{Q}$
+What is the SI unit of potential difference? | Volt (V)
+What is 1 volt equivalent to? | The transfer of 1 joule of electrical energy per coulomb of charge ($1\;\text{V} = 1\;\text{J C}^{-1}$)
+How does a cell create a potential difference? | Through the separation of charge — one terminal has excess positive charge and the other has excess negative charge
+What happens to the energy of charge carriers as they pass through a cell? | They gain energy (each coulomb gains energy equal to the cell's voltage in joules)
+What happens to the energy of charge carriers as they flow through circuit components? | They lose energy, transferring it to the wires and components
+How is a voltmeter connected in a circuit? | In parallel with the component being measured
+What is resistance? | The opposition of a component to the flow of electric current through it
+The opposition of a component to the flow of electric current through it — what quantity is this? | Resistance
+What is the equation defining resistance? | $R = \frac{V}{I}$
+What is the SI unit of resistance? | Ohm ($\Omega$)
+What does a resistance of $1\;\Omega$ correspond to? | A p.d. of 1 V across a component producing a current of 1 A through it
+For a given p.d., what is the effect of increasing the resistance of a component? | The current decreases
+Why is copper commonly used for connecting wires? | It has low electrical resistance, making it a good conductor
+What assumption is made about connecting wire resistance in exam calculations? | The resistance of wires is taken to be zero
+State Ohm's law | For a conductor at constant temperature, the current through it is proportional to the potential difference across it
+For a conductor at constant temperature, the current through it is proportional to the p.d. across it — what law is this? | Ohm's law
+What equation represents Ohm's law? | $V = IR$
+What does constant temperature imply for a conductor obeying Ohm's law? | Constant resistance
+In a circuit for plotting I-V characteristics, what component is adjusted to vary the current and p.d.? | A variable resistor connected in series with the test component
+How can you tell from an I-V graph that a component obeys Ohm's law? | The graph is a straight line through the origin
+How is resistance calculated from an I-V graph? | $R = \frac{1}{\text{gradient}}$, since the gradient of the I-V graph equals $\frac{1}{R}$
+Describe the I-V characteristic of a semiconductor diode | No current flows in reverse bias; in forward bias, the current increases sharply after a certain p.d.
+What is forward bias in a diode? | When current flows in the direction of the arrowhead symbol, and the diode conducts
+What is reverse bias in a diode? | When the diode is connected in the opposite direction so it does not conduct, giving zero current
+What is the purpose of a diode in a circuit? | To allow current to flow in only one direction
+Describe the I-V characteristic of a filament lamp | An S-shaped curve — current increases at a proportionally slower rate than the potential difference
+Explain why the resistance of a filament lamp increases as current increases | As current increases, the filament temperature rises; since the filament is a metal, higher temperature causes increased resistance
+For what range of voltages does a filament lamp obey Ohm's law? | For small voltages, where the I-V graph is approximately a straight line

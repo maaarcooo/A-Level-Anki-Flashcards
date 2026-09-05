@@ -1,0 +1,51 @@
+What is a stationary (standing) wave? | A wave formed by the superposition of two waves of the same frequency and amplitude travelling in opposite directions, producing a pattern where the peaks and troughs do not move
+A wave formed by superposition of two waves of the same frequency and amplitude travelling in opposite directions, where the peaks and troughs do not move — what type of wave is this? | Stationary (standing) wave
+How is a stationary wave usually produced? | By a travelling wave superposing with its own reflection
+How do stationary waves and progressive waves differ in terms of energy? | Stationary waves store energy; progressive waves transfer energy
+How does the amplitude of individual points differ between a progressive wave and a stationary wave? | Progressive wave: all points have the same amplitude. Stationary wave: each point has a different amplitude depending on its position
+What is a node on a stationary wave? | A point of no vibration (zero displacement at all times)
+A point of no vibration on a stationary wave — what is this called? | A node
+What is an antinode on a stationary wave? | A point of maximum amplitude on a stationary wave
+A point of maximum amplitude on a stationary wave — what is this called? | An antinode
+How do nodes and antinodes behave in terms of position on a stationary wave? | Nodes are fixed in position. Antinodes oscillate vertically but do not move along the string
+How can you determine whether two points on a stationary wave are in phase or out of phase? | Count the nodes between them: an even number (including zero) means in phase, an odd number means out of phase
+What distance separates adjacent nodes (or adjacent antinodes) on a stationary wave? | Half a wavelength ($\frac{\lambda}{2}$)
+State the principle of superposition | When two or more waves with the same frequency arrive at a point, the resultant displacement is the sum of the displacements of each wave
+The resultant displacement at a point equals the sum of the displacements of the individual waves arriving there — what principle is this? | The principle of superposition
+To what types of waves does the principle of superposition apply? | All types: transverse and longitudinal, progressive and stationary
+What happens when two waves of the same frequency and amplitude superpose in phase? | Constructive interference occurs and the resultant wave has double the amplitude
+What happens when two waves of the same frequency and amplitude superpose in anti-phase? | Destructive interference occurs and the resultant wave has zero amplitude
+What conditions are required for a stationary wave to form? | Two waves with the same frequency, same wavelength, and similar amplitude must travel in opposite directions along the same line
+What type of interference produces nodes on a stationary wave? | Destructive interference (the waves are in anti-phase at those points)
+What type of interference produces antinodes on a stationary wave? | Constructive interference (the waves are in phase at those points)
+What do stationary waves on a vibrating stretched string produce? | Sound (this is how stringed instruments such as guitars and violins work)
+How can stationary waves be demonstrated with microwaves? | Place a microwave source in line with a metal reflector and move a probe detector between them to locate nodes (signal minima) and antinodes (signal maxima)
+How can stationary sound waves be demonstrated in a tube? | Place fine powder inside a tube with a loudspeaker at the open end. At resonant frequencies the powder collects in evenly spaced heaps at the nodes
+For a stationary sound wave in a tube closed at one end, where are the node and antinode? | Node at the closed end, antinode at the open end (loudspeaker end)
+What is a resonant frequency in the context of a vibrating string? | A frequency at which a whole number of half wavelengths fits exactly on the length of the string, forming a stationary wave
+What are harmonics? | Different stationary wave patterns that can form at specific resonant frequencies, depending on the frequency of vibration and the boundary conditions
+What is the first harmonic on a string fixed at both ends? | The simplest stationary wave pattern: a single loop with two nodes (at the ends) and one antinode
+What is another name for the first harmonic? | The fundamental frequency
+What is the wavelength of the first harmonic on a string of length $L$? | $\lambda = 2L$
+What is the frequency of the first harmonic on a string of length $L$ with wave speed $v$? | $f_1 = \frac{v}{2L}$
+How many nodes and antinodes does the second harmonic have on a string? | Three nodes and two antinodes
+What is the wavelength of the second harmonic on a string of length $L$? | $\lambda = L$
+What is the frequency of the second harmonic in terms of $f_1$? | $f_2 = 2f_1$
+How many nodes and antinodes does the third harmonic have on a string? | Four nodes and three antinodes
+What is the wavelength of the third harmonic on a string of length $L$? | $\lambda = \frac{2L}{3}$
+What is the frequency of the third harmonic in terms of $f_1$? | $f_3 = 3f_1$
+For the $n$th harmonic on a string, how many antinodes and nodes are there? | $n$ antinodes and $n + 1$ nodes
+What is the frequency of the $n$th harmonic in terms of $f_1$? | $f_n = n \times f_1$
+What is the equation for the speed of a wave travelling along a string under tension? | $v = \sqrt{\frac{T}{\mu}}$, where $T$ is tension (N) and $\mu$ is mass per unit length (kg m$^{-1}$)
+What is mass per unit length ($\mu$) and what is its SI unit? | The mass of the string divided by its length, measured in kg m$^{-1}$
+What is the equation for the frequency of the first harmonic in terms of $L$, $T$, and $\mu$? | $f = \frac{1}{2L}\sqrt{\frac{T}{\mu}}$
+What is the aim of the required practical on stationary waves? | To investigate how the frequency of the first harmonic depends on the length, tension, or mass per unit length of a string
+In the stationary waves required practical (varying length), what are the independent, dependent, and control variables? | IV: length of string. DV: frequency of first harmonic. CVs: tension (same hanging mass) and same string (constant mass per unit length)
+Describe the setup for the stationary waves required practical | A string is attached to a vibration generator at one end, passes over a pulley at the other end, and has masses hung from it to provide tension. A moveable bridge sets the vibrating length $L$
+In the stationary waves practical, how is the first harmonic identified? | The frequency of the vibration generator is gradually increased until a single stationary wave loop (one antinode, two nodes at the ends) is observed
+When plotting $f$ against $\frac{1}{L}$ for the stationary waves practical, what does the gradient represent? | The gradient equals $\frac{v}{2}$, so the wave speed is $v = 2 \times \text{gradient}$
+How can the experimental wave speed be verified in the stationary waves practical? | By comparing it with $v = \sqrt{\frac{T}{\mu}}$ calculated from the measured tension and mass per unit length
+What is the main source of random error in the stationary waves practical? | The sharpness of resonance makes it difficult to judge exactly when the first harmonic frequency is reached
+How can the random error in identifying the first harmonic be minimised? | Adjust the frequency while watching a node to find the largest response, then overshoot the frequency and reduce it back. Average the readings from multiple approaches
+Name two ways to reduce systematic error in the stationary waves practical | Use an oscilloscope to verify the signal generator frequency readings, and let the signal generator stabilise for about 20 minutes before taking measurements
+State two safety precautions for the stationary waves practical | Use a rubber string instead of metal wire in case it snaps under tension (wear goggles if metal wire is used). Place a crash mat under the hanging masses and stand well away from them

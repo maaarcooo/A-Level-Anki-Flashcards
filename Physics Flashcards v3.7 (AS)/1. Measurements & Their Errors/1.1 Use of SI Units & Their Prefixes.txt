@@ -1,0 +1,48 @@
+How many of the seven SI base units are required for AQA A-Level Physics? | Six (luminous intensity / candela is not required)
+What is the SI base unit of mass? | kilogram (kg)
+What is the SI base unit of length? | metre (m)
+What is the SI base unit of time? | second (s)
+What is the SI base unit of electric current? | ampere (A)
+What is the SI base unit of temperature? | kelvin (K)
+What is the SI base unit of amount of substance? | mole (mol)
+What are derived units? | Units that are derived from combinations of the seven SI base units
+Units that are derived from combinations of the seven SI base units — what term is this? | Derived units
+How do you deduce the SI base units of a derived unit? | Substitute the defining equation of the quantity with SI base units
+What is the newton (N) expressed in SI base units? | $\mathrm{kg\,m\,s^{-2}}$
+What is the joule (J) expressed in SI base units? | $\mathrm{kg\,m^{2}\,s^{-2}}$
+What is the pascal (Pa) expressed in SI base units? | $\mathrm{kg\,m^{-1}\,s^{-2}}$
+What power of ten does the prefix tera (T) represent? | $10^{12}$
+What power of ten does the prefix giga (G) represent? | $10^{9}$
+What power of ten does the prefix mega (M) represent? | $10^{6}$
+What power of ten does the prefix kilo (k) represent? | $10^{3}$
+What power of ten does the prefix centi (c) represent? | $10^{-2}$
+What power of ten does the prefix milli (m) represent? | $10^{-3}$
+What power of ten does the prefix micro (μ) represent? | $10^{-6}$
+What power of ten does the prefix nano (n) represent? | $10^{-9}$
+What power of ten does the prefix pico (p) represent? | $10^{-12}$
+What power of ten does the prefix femto (f) represent? | $10^{-15}$
+What is one electronvolt (eV)? | The energy gained by an electron moving through a potential difference of 1 V, equal to $1.6 \times 10^{-19}$ J
+The energy gained by an electron moving through a potential difference of 1 V — what quantity is this? | Electronvolt (eV)
+How do you convert joules to electronvolts? | Divide by $1.6 \times 10^{-19}$
+How do you convert electronvolts to joules? | Multiply by $1.6 \times 10^{-19}$
+Convert $2.176 \times 10^{-18}$ J to electronvolts | $\frac{2.176 \times 10^{-18}}{1.6 \times 10^{-19}} = 13.6$ eV
+How many joules are in 1 kilowatt-hour? | $3.6 \times 10^{6}$ J (3.6 MJ)
+How do you convert joules to kilowatt-hours? | Divide by $3.6 \times 10^{6}$
+How do you convert kilowatt-hours to joules? | Multiply by $3.6 \times 10^{6}$
+What is an order of magnitude? | The power of ten nearest to a quantity
+The power of ten nearest to a quantity — what is this called? | Order of magnitude
+What is the order of magnitude of $6 \times 10^{8}$? | $10^{9}$ (the coefficient rounds up because $6 \geq 5$)
+By what factor is a quantity larger when it is one order of magnitude greater? | About 10 times
+What is the approximate diameter of an atom? | $\sim 10^{-10}$ m
+What is the approximate wavelength of UV light? | $\sim 10$ nm ($10^{-8}$ m)
+What is the approximate height of an adult human? | $\sim 2$ m
+What is the approximate distance between the Earth and the Sun (1 AU)? | $\sim 1.5 \times 10^{11}$ m
+What is the approximate mass of a hydrogen atom? | $\sim 10^{-27}$ kg
+What is the approximate mass of an adult human? | $\sim 70$ kg
+What is the approximate mass of a car? | $\sim 1000$ kg ($10^{3}$ kg)
+Approximately how many seconds are in a day? | About 86 400 s (order of magnitude $\sim 10^{5}$)
+Approximately how many seconds are in a year? | $\sim 3 \times 10^{7}$ s
+What is the approximate speed of sound in air? | $\sim 300\;\mathrm{m\,s^{-1}}$
+What is the approximate power of a standard lightbulb? | $\sim 60$ W
+What is the approximate value of atmospheric pressure? | $\sim 1 \times 10^{5}$ Pa
+What is the approximate surface temperature of the Sun? | $\sim 6000$ K (order of magnitude $\sim 10^{4}$)

@@ -1,0 +1,25 @@
+What is the Young Modulus? | The ratio of tensile stress to tensile strain ($E = \frac{FL}{A\Delta L}$), measuring the stiffness of a material
+The ratio of tensile stress to tensile strain, measuring the stiffness of a material — what quantity is this? | The Young Modulus
+What are the units of the Young Modulus? | Pascals (Pa)
+Explain why the Young Modulus has the same units as stress | Strain is dimensionless, so dividing stress by strain gives units of stress
+The Young Modulus of a material is typically a very large number, in the order of [...] | GPa (gigapascals)
+How is the Young Modulus determined from a stress-strain graph? | It equals the gradient of the linear region, where Hooke's Law is obeyed
+What does the area under the linear region of a stress-strain graph represent? | The energy stored per unit volume of the material
+How does finding the Young Modulus differ between a stress-strain graph and a force-extension graph? | On a stress-strain graph the gradient gives the Young Modulus directly, whereas on a force-extension graph the gradient must be multiplied by $\frac{L}{A}$
+What is the aim of the Young Modulus required practical? | To measure the Young Modulus of a metal in the form of a wire
+In the Young Modulus experiment, what is the independent variable? | Force (or load) in N
+In the Young Modulus experiment, what is the dependent variable? | Extension in m
+In the Young Modulus experiment, what are the control variables? | Original length of wire, thickness of wire, and the metal used
+Why is the diameter of the wire measured with a micrometer rather than a ruler? | A micrometer has a resolution of 0.001 mm, giving a much more precise measurement than a ruler (1 mm resolution)
+Why is the diameter of the wire measured in several places and averaged? | To reduce the uncertainty on the cross-sectional area
+How is the cross-sectional area of the wire calculated from its diameter? | $A = \frac{\pi d^2}{4}$
+What is the role of the pulley in the Young Modulus experiment? | It allows the mass to hang vertically, introducing less friction than the edge of the table
+What is the purpose of the tape marker in the Young Modulus experiment? | To mark a reference point on the wire so the extension can be accurately read from the ruler after each load is added
+What graph is plotted to determine the Young Modulus from experimental data? | Force (load) on the y-axis against extension on the x-axis
+How is the Young Modulus calculated from a force-extension graph? | Young Modulus $= \text{gradient} \times \frac{L}{A}$, where $L$ is the original length and $A$ is the cross-sectional area
+In the Young Modulus experiment, how is the load calculated from the mass? | $F = mg$, where $g = 9.81 \text{ N kg}^{-1}$
+How should the wire be checked for exceeding its elastic limit during the experiment? | Remove the load and check the wire returns to its original length before taking new readings
+What random error affects reading the marker on the ruler in the Young Modulus experiment? | Parallax error
+How can random errors in the extension measurements be reduced? | Repeat the experiment for all loads and find an average extension
+What improvement reduces systematic error when measuring extension in the Young Modulus experiment? | Use a vernier scale instead of a metre ruler for more precise extension readings
+What safety precautions are taken in the Young Modulus experiment? | Wear safety goggles in case the wire snaps, and place a cushion below the mass hanger in case it falls

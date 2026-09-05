@@ -1,0 +1,43 @@
+What is uncertainty in a measurement? | An estimate of the difference between a measurement reading and the true value
+An estimate of the difference between a measurement reading and the true value — what term is this? | Uncertainty
+What are random errors? | Unpredictable fluctuations in readings caused by uncontrollable factors such as environmental conditions
+Which property of measurements do random errors affect? | Precision — they cause a wider spread of results about the mean value
+How can random errors be reduced? | Repeat measurements several times and calculate an average from them
+What are systematic errors? | Errors arising from faulty instruments or flaws in the experimental method that are repeated consistently every time
+Which property of measurements do systematic errors affect? | Accuracy — all readings are shifted by the same amount from the true value
+How can systematic errors be reduced? | Recalibrate or replace the instrument, and make corrections or adjustments to the technique
+What is a zero error? | A type of systematic error where an instrument gives a non-zero reading when the true value is zero
+What is precision? | How close repeated measurements are to each other (how little spread there is about the mean value)
+How close repeated measurements are to each other — what term is this? | Precision
+What is accuracy? | How close a measurement is to the true value
+How close a measurement is to the true value — what term is this? | Accuracy
+How does precision differ from accuracy? | Precision: how close repeated measurements are to each other. Accuracy: how close a measurement is to the true value. Measurements can be precise but not accurate if each reading has the same systematic error
+What does it mean for a measurement to be repeatable? | The original experimenter repeats the investigation using the same method and equipment and obtains the same results
+The original experimenter repeats the investigation using the same method and equipment and obtains the same results — what term is this? | Repeatable
+What does it mean for a measurement to be reproducible? | The investigation is repeated by another person, or using different equipment or techniques, and the same results are obtained
+The investigation is repeated by another person, or using different equipment or techniques, and the same results are obtained — what term is this? | Reproducible
+How does repeatability differ from reproducibility? | Repeatability: same experimenter, same method and equipment. Reproducibility: different person, or different equipment or techniques. Both require the same results
+What is the resolution of a measuring instrument? | The smallest change in the quantity being measured that gives a perceptible change in the reading
+The smallest change in the quantity being measured that gives a perceptible change in the reading — what term is this? | Resolution
+What is the resolution of a typical wristwatch, and of a digital stopclock? | Wristwatch: 1 s. Digital stopclock: typically 10 ms (0.01 s)
+How do uncertainties differ from errors? | Errors are issues with equipment or methodology that cause readings to differ from the true value. Uncertainty is a range of values within which the true value is expected to lie, and is an estimate
+What is absolute uncertainty? | Uncertainty given as a fixed quantity in the same units as the measurement, denoted by $\Delta$
+What is fractional uncertainty? | $\text{Fractional uncertainty} = \frac{\text{uncertainty}}{\text{measured value}}$
+What is the equation for percentage uncertainty? | $\text{Percentage uncertainty} = \frac{\text{uncertainty}}{\text{measured value}} \times 100\%$
+What is the uncertainty in a single reading from an analogue scale? | $\pm$ half the smallest division
+What is the uncertainty in a measurement (e.g. using a ruler where two readings are taken)? | At least $\pm 1$ smallest division
+What is the uncertainty in repeated data? | Half the range: $\pm \frac{1}{2}(\text{largest} - \text{smallest value})$
+What is the uncertainty in a digital reading? | $\pm$ the last significant digit, unless otherwise quoted
+How are uncertainties combined when adding or subtracting data? | Add the absolute uncertainties
+How are uncertainties combined when multiplying or dividing data? | Add the percentage or fractional uncertainties
+How is uncertainty handled when raising a quantity to a power? | Multiply the percentage uncertainty by the power
+To how many significant figures should absolute uncertainties be quoted? | One significant figure
+To how many significant figures should percentage and fractional uncertainties be quoted? | No more than two significant figures
+How should the number of significant figures in a final result relate to the uncertainty? | The final result must be rounded to match the precision of the absolute uncertainty
+What is the uncertainty in numbers and constants such as $\pi$? | Zero
+What do error bars on a graph represent? | The absolute uncertainty in the plotted values
+What is the 'best' line of best fit on a graph? | The line that passes as close as possible to all the data points
+What is the 'worst' line of best fit on a graph? | The steepest or shallowest line that still fits within all the error bars
+What is the equation for percentage uncertainty in a gradient from a graph? | $\frac{\text{best gradient} - \text{worst gradient}}{\text{best gradient}} \times 100\%$
+What is the equation for percentage uncertainty in a y-intercept from a graph? | $\frac{\text{best y-intercept} - \text{worst y-intercept}}{\text{best y-intercept}} \times 100\%$
+What are anomalies in experimental data, and how are they handled? | Readings that do not fit the expected pattern, identified through repeated measurements and omitted from the final results
