@@ -1,0 +1,23 @@
+What is problem decomposition? | Breaking a large, complex problem into smaller subproblems that can be solved more easily
+Breaking a large, complex problem into smaller subproblems that can be solved more easily — what term is this? | Problem decomposition
+What is abstraction in computational thinking? | Removing unimportant details from a problem and focusing on the details that form part of the solution
+Removing unimportant details from a problem and focusing on the details that form part of the solution — what term is this? | Abstraction
+What two processes are applied to a problem before creating algorithms to solve it? | Abstraction (removing unimportant details) and decomposition (breaking into sub-problems)
+What is top-down design? | A method of decomposition that breaks a problem into major tasks, then into smaller sub-tasks, until each can be solved by a single subroutine or module
+By what other name is top-down design known? | Stepwise refinement
+In a top-down design hierarchy, what do higher levels represent compared to lower levels? | Higher levels give an overview of the problem; lower levels specify the detailed components
+When applying top-down design, when should you stop breaking down a sub-task? | When it cannot be broken down further, is easily solved, and can be implemented as a single subroutine or module
+What is procedural abstraction? | Using a procedure to execute a sequence of instructions to achieve a goal
+In thinking procedurally, what does "procedure" refer to (as distinct from the strict programming definition)? | A unit of computation that performs a single task
+In programming, how does a function differ from a procedure? | A function returns a value; a procedure does not
+What is a hierarchy chart? | A tree-structured diagram that shows problem decomposition and how modules and subroutines relate to each other
+A tree-structured diagram showing problem decomposition and how modules and subroutines relate — what is this? | A hierarchy chart
+Why is decomposed code simpler to test? | Each subroutine is self-contained, so it can be tested individually using unit testing
+How does decomposition support code reuse? | Subroutines can be reused as needed rather than rewriting code
+Why does decomposition make errors easier to find and fix? | Each subroutine is self-contained and well documented, so errors can be located within individual modules
+Why is decomposition beneficial for team development? | The problem can be divided between developers according to their skill sets, with each person working on a separate module
+Why must the order of steps be considered when combining sub-procedures into a solution? | Some operations depend on inputs from earlier steps or other subroutines, so they cannot execute until those dependencies are met
+What must be done to inputs before they are passed between subroutines? | They must be validated to confirm correctness before being passed on
+When can subroutines be executed simultaneously within a program? | When they do not require data from each other (no data dependencies between them)
+Why is it useful to identify existing modules, subroutines, or libraries during solution design? | Reusable components reduce development complexity and avoid rewriting code that already exists
+What is the difference between identifying the components of a problem and the components of a solution? | Problem components are the key variables and constraints to consider. Solution components are the technical implementation details needed to solve each part (data types, data structures, algorithms)

@@ -1,0 +1,32 @@
+What is a decision in the context of problem solving? | A result reached after some consideration
+A result reached after some consideration — what term describes this? | A decision
+What are the three structured programming techniques? | Sequence, selection, and iteration
+What is sequence in structured programming? | Executing one statement after another
+Executing one statement after another — what structured programming technique is this? | Sequence
+What is selection in structured programming? | Decision making that directs program flow based on a Boolean condition (e.g. if/then/else, switch/case). Also known as branching
+Decision making that directs program flow based on a Boolean condition — what structured programming technique is this? | Selection (also known as branching)
+What is iteration in structured programming? | Repeating a sequence of instructions based on a stopping Boolean condition (e.g. for, while, do until)
+Repeating a sequence of instructions based on a stopping Boolean condition — what structured programming technique is this? | Iteration
+What is the purpose of using structured programming techniques? | To aid the readability, understanding, and maintainability of code
+What is a block-structured language? | A language that uses only sequence, selection, and iteration to control the flow of execution and data (e.g. Python)
+Why should each block of code have a single entry and exit point? | To prevent unintended consequences to the flow of control, such as entering or leaving a subroutine early or branching unintentionally
+Name three ways to plan an algorithm before coding | Flowcharts, pseudocode, and structured English
+Why are flowcharts useful when identifying decision points? | They visually show the flow of control, making decisions clear and easy to follow
+What is the main disadvantage of using flowcharts? | They are time consuming to create
+What advantage does pseudocode have over flowcharts? | It more accurately mimics programming language constructs without the problem of syntax
+When is any way of expressing a pseudocode algorithm considered acceptable? | As long as the meaning is clear, since pseudocode has no fixed syntax
+What is the disadvantage of structured English compared to pseudocode? | It is usually more verbose and imprecise
+Why is it challenging to implement a solution directly in a different programming language? | Languages have specific syntax, constructs, and idiosyncrasies that differ between them
+In which two types of programming structure do decisions usually occur? | Selection structures (if/then/else, switch/case) and iteration structures (while loops)
+What do decisions affect in a program? | The flow of control
+Where do most errors in a program occur? | When evaluating Boolean conditions, especially long, complex conditions with multiple clauses
+What does the AND operator require for the overall condition to be true? | Both conditions must be true
+What does the OR operator require for the overall condition to be true? | Either or both conditions must be true
+What does the NOT operator do in a Boolean condition? | Inverts the condition so it evaluates to the opposite value
+What does the XOR operator require for the overall condition to be true? | Exactly one of the two conditions must be true, but not both
+What symbol represents a decision in a flowchart, and what outcomes can it have? | A diamond shape with two possible outcomes: yes/no (true/false)
+How can the decision-making process be simplified when designing a solution? | By limiting the possible solutions to those that are feasible and suitable for the problem
+What three factors should be evaluated when deciding on an approach for a solution? | Effectiveness, convenience, and feasibility
+Why is it important to identify decision points early when building a solution? | It allows enough information to be gathered about options, enabling an informed decision
+What can happen if break instructions are misused in iterative blocks? | They can cause unintended problems by disrupting the expected flow of control
+What does thinking logically allow a programmer to do? | Plan and prepare for different scenarios by providing foresight of the decisions made through the whole program

@@ -1,0 +1,110 @@
+What is a data type? | A classification of data into groups according to the kind of data they represent
+A classification of data into groups according to the kind of data they represent — what term is this? | Data type
+What does the integer data type represent? | Whole numbers, either positive or negative (e.g. 10, -5, 0)
+What does the real (float) data type represent? | Numbers with a fractional part, either positive or negative (e.g. 3.14, -2.5)
+What does the char data type represent? | A single character such as a letter, digit, or symbol (e.g. 'a', '$')
+What does the string data type represent? | A sequence of characters (e.g. "Hello World", "1234")
+What does the boolean data type represent? | True or false values only
+What is casting? | Converting one data type to another data type
+Why is casting needed when processing user input for calculations? | User input is typically received as a string and must be converted to a numerical type before arithmetic or comparisons can be performed
+What happens when a real value such as 5.7 is cast to an integer? | The fractional part is truncated, giving 5
+What are arithmetic operators? | Symbols or keywords used to perform mathematical calculations on numerical values
+Besides adding numbers, what can the + operator do with strings? | Concatenate (join) them together
+What does the MOD operator return? | The remainder when one value is divided by another (e.g. 10 MOD 3 = 1)
+What does the DIV operator return? | The whole-number result of a division, discarding any remainder (e.g. 7 DIV 2 = 3)
+What does the exponentiation operator (^) do? | Raises a value to the power of another number (e.g. $3^3 = 27$)
+What rule determines the order in which arithmetic operators are evaluated? | Operator precedence, following BIDMAS/BODMAS
+How can the default operator precedence be overridden? | By using parentheses to force a particular evaluation order
+What do comparison (relational) operators return? | A boolean result (true or false)
+What does the == operator do? | Returns true if two values are equal, false otherwise
+What does the != operator do? | Returns true if two values are not equal, false if they are equal
+When does the AND operator return true? | Only when both operands are true
+When does the OR operator return true? | When at least one operand is true
+What does the NOT operator do? | Negates a boolean value, returning true if the operand is false and vice versa
+What are the three programming constructs? | Sequence, iteration, and branching (selection)
+What is sequence? | Code executed line by line, in order, from top to bottom
+Code executed line by line, in order, from top to bottom — which programming construct is this? | Sequence
+What is selection (branching)? | A construct where a condition is tested and the outcome determines which block of code runs next
+A construct where a condition is tested to determine which block of code runs next — which programming construct is this? | Selection (branching)
+What is iteration? | Repeating a line or block of code using a loop
+Repeating a line or block of code using a loop — which programming construct is this? | Iteration
+What two types of selection statement are there? | if...elseif...else and switch...case
+When is a switch/case statement preferred over if/elseif/else? | When a single expression needs to be compared against multiple possible constant values
+What does the default keyword do in a switch/case statement? | Specifies a block of code to execute if none of the case labels match the expression
+What keywords indicate that a construct is selection? | if, elseif, else, endif, switch, case
+What keywords indicate that a construct is iteration? | for, while, do
+What is count-controlled iteration? | A loop that repeats a fixed number of times, typically using a for loop
+What is condition-controlled iteration? | A loop that repeats until a condition is met, using a while or do-while (do-until) loop
+What three parts make up the syntax of a for loop? | Initialisation of a counter variable, the range to iterate through, and the increment/decrement step
+How does a while loop check its condition relative to the code block? | The condition is evaluated before each iteration, so the code block may never execute if the condition is initially false
+How does a do-while (do-until) loop differ from a while loop? | It executes the code block first, then checks the condition, so it always runs at least once
+In OCR pseudocode do...until syntax, when does the loop terminate? | When the condition evaluates to true
+What is modularity? | A concept where problems are broken down into smaller, self-contained modules (subroutines) that each complete a specific task
+Breaking a problem into smaller, self-contained modules — what programming concept is this? | Modularity
+What is a subroutine? | A named, standalone block of code that performs a specific task and can be called from elsewhere in the program
+How does a function differ from a procedure? | A function must return a value; a procedure does not return a value
+What is the top-down approach (stepwise refinement)? | Continually breaking a problem into sub-problems until each is an individual, self-contained module that performs a specific task
+Give three benefits of modular programming | Easier to understand and approach the problem; simplifies testing and maintenance as each module can be tested individually; improves reusability of components
+What is a parameter? | A piece of data passed into a function or procedure to allow it to complete its task
+What happens when a parameter is passed by value (byVal)? | A copy of the value is made and used locally within the function; the original value outside is unaffected
+What happens when a parameter is passed by reference (byRef)? | The memory address is passed, so changes within the function directly affect the original value
+A copy of a value is passed to a subroutine and discarded at the end — which parameter passing method is this? | Passing by value (byVal)
+The memory address of a value is passed so changes affect the original — which parameter passing method is this? | Passing by reference (byRef)
+Why might passing by value cause performance overhead with large data structures? | A copy of the entire data structure must be created in memory for the function call
+Why might passing by reference lead to unexpected side effects? | Changes within the function directly modify the original data, potentially affecting other parts of the program unintentionally
+In OCR exam pseudocode, how should you assume parameters are passed unless stated otherwise? | By value
+What is recursion? | A programming technique where a function calls itself to solve a problem, continuing until a stopping condition is met
+A programming technique where a function calls itself to solve a problem — what is this called? | Recursion
+What three features must a recursive algorithm have? | The function must call itself, it must have a base case that returns a value without further calls, and the stopping condition must be reachable after a finite number of calls
+What is the base case in recursion? | The condition at which the function stops calling itself and returns a direct result without further recursive calls
+What happens if a recursive function lacks a proper stopping condition? | It calls itself indefinitely, consuming memory until a stack overflow occurs and the program crashes
+What is a stack frame in recursion? | A block of memory created on the call stack for each function call, storing that call's parameters, local variables, and return address
+What does unwinding mean in recursion? | Popping stack frames off the call stack once the base case is reached, returning values back through each previous call
+What is the call stack? | A last-in-first-out data structure that stores information about active subroutine calls, enabling the program to return to the correct point after each call completes
+What is a stack overflow? | When the call stack runs out of memory, typically caused by too many recursive calls without reaching a base case, crashing the program
+What is tail recursion? | A form of recursion where the recursive call is the last operation in the function, allowing it to be implemented using less stack space
+Recursion is an example of which problem-solving technique? | Divide and conquer
+Give one advantage of recursion over iteration | Certain problems can be represented in fewer lines of code, making them less prone to errors and more readable
+Give one advantage of iteration over recursion | More memory-efficient with no call stack overhead, leading to better performance and no risk of stack overflow
+When converting a recursive function to an iterative one, what typically replaces the recursive call? | A loop (usually while true), with variables updated to match the parameter changes that would occur in each recursive call
+What is a local variable? | A variable declared within a specific scope (such as a function) that can only be accessed within that block of code
+A variable that can only be accessed within the block of code where it was defined — what type of variable is this? | Local variable
+What is a global variable? | A variable declared at the outermost level of a program, accessible and modifiable from any part of the program
+A variable accessible from any part of the program — what type of variable is this? | Global variable
+What is scope in programming? | The section of code in which a variable is available
+Why are local variables generally preferred over global variables? | They keep subroutines self-contained, prevent unintended modification by other code, and free memory when the block ends
+What happens if a local and global variable share the same name within a subroutine? | The local variable takes precedence within that subroutine
+Why do global variables require more memory than local variables? | Global variables persist in memory until the program terminates, while local variables are freed when their block finishes
+How can a program be refactored to replace global variables with local variables? | Pass data as parameters to functions and use return values to pass results back, keeping variables local to each function
+What is an IDE? | A software tool providing programmers with an integrated platform to write, edit, compile, debug, and manage code
+A software tool providing programmers with an integrated platform to write, edit, compile, debug, and manage code — what is this? | An Integrated Development Environment (IDE)
+What is syntax highlighting (pretty printing) in an IDE? | Displaying different code elements (keywords, strings, comments) in distinct colours or styles to improve readability and help identify errors
+What does autocomplete do in an IDE? | Suggests code completions as the programmer types, including variable names, function names, and closing brackets
+What is auto indent in an IDE? | Automatically indenting code when a new line starts within a code block, visually showing the structure of selection and iteration constructs
+What are breakpoints in an IDE? | Markers set at specific lines that halt program execution during runtime so the developer can inspect the program state and variable values
+What is stepping mode in an IDE? | A debugging mode that executes the program one line at a time, allowing the developer to monitor the effect of each line
+What does a variable watch window show in an IDE? | The values of selected variables in real-time as the program executes, useful for diagnosing issues related to variable values
+What is a crash dump (post-mortem report)? | A report capturing the program's state and memory contents at the time of a crash, generated after unexpected termination to help diagnose the root cause
+What does the stack contents debugging tool show? | The order in which functions were called, along with the parameters and local variables of each function on the call stack
+What is a class in OOP? | A template for an object that defines its attributes (state) and methods (behaviour)
+A template that defines the attributes and methods of an object — what OOP term is this? | Class
+What is an object in OOP? | A particular instance of a class, created through instantiation
+A particular instance of a class — what OOP term is this? | Object
+What is instantiation? | The process of creating an object from a class
+The process of creating an object from a class — what term is this? | Instantiation
+What are attributes in OOP? | Properties defined within a class that hold the state (data) of an object, typically declared as private
+What are methods in OOP? | Subroutines defined within a class that describe the actions (behaviour) an object can perform
+What is a constructor? | A special method that creates and initialises objects of a class, setting the initial attribute values
+In OCR pseudocode, what keyword is used to create a new object? | new (e.g. myObj = new ClassName(arguments))
+What is inheritance in OOP? | A mechanism where a subclass (derived class) acquires the attributes and methods of a superclass (base class)
+A mechanism where a derived class acquires the attributes and methods of a base class — what OOP concept is this? | Inheritance
+In OCR pseudocode, what keyword indicates a class inherits from another? | INHERITS (e.g. CLASS Car INHERITS Vehicle)
+What keyword in a subclass constructor calls the parent class constructor to inherit its attributes? | super
+What is encapsulation in OOP? | Declaring attributes as private so they can only be accessed or modified through public methods, implementing information hiding
+Declaring attributes as private and controlling access through public methods — what OOP principle is this? | Encapsulation
+What is a getter (accessor) method? | A public method that returns the value of a private attribute, providing controlled read access
+What is a setter (mutator) method? | A public method that updates the value of a private attribute, typically including validation logic before the update
+What is polymorphism in OOP? | The ability of objects of different classes to respond to the same method call in different ways through method overriding
+Objects of different classes responding to the same method call in different ways — what OOP concept is this? | Polymorphism
+What is method overriding? | When a subclass provides its own implementation of a method already defined in its superclass
+What is run-time (dynamic) polymorphism? | When the correct version of an overridden method is chosen at run-time based on the actual type of the object, not at compile-time
